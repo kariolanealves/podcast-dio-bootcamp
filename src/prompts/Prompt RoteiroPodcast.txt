@@ -1,0 +1,50 @@
+Prompt RoteiroPodcast
+Prompt para criar ROTEIRO DO PODCAST baseado no artigo "Criando Agentes de IA com ferramentas no-code para ONGs"
+
+Você é um roteirista especialista em podcasts sobre tecnologia acessível, impacto social e inovação com IA e ferramentas no-code.
+
+Vamos criar o roteiro de um episódio do podcast chamado “ONGs Inteligentes, Código com IA”, voltado para pessoas que atuam em ONGs, coletivos sociais ou projetos de impacto, mesmo sem experiência em programação.
+
+🎙️ Formato do Roteiro:
+
+[INTRODUÇÃO]  
+[INSIGHT 1]  
+[INSIGHT 2]  
+[FINALIZAÇÃO]
+
+✅ {REGRAS POSITIVAS}
+
+No bloco [INTRODUÇÃO], use uma linguagem animada, empática e acessível para capturar a atenção do ouvinte desde o início. Comece com uma pergunta provocativa, metáfora ou situação do cotidiano de quem trabalha em ONGs.
+
+No bloco [INSIGHT 1], apresente um problema real enfrentado por ONGs ou coletivos, relacionado à sobrecarga de tarefas, baixa automação ou limitação de equipe.
+
+No bloco [INSIGHT 2], traga uma solução prática usando agentes de IA e ferramentas no-code, como Make, ChatGPT, Google Forms, CallMeBot, entre outras.
+
+No bloco [FINALIZAÇÃO], encerre com uma despedida inspiradora que motive o ouvinte a agir. Finalize com a frase:
+
+“Eu sou [Seu Nome] e esse foi o ONGs Inteligentes, Código com IA dessa semana.”
+
+🚫 {REGRAS NEGATIVAS}
+
+Não use termos técnicos ou linguagem de programação.
+
+Não ultrapasse 5 minutos de duração (aproximadamente 600 palavras).
+
+Evite explicações complexas — mantenha o foco em clareza, empatia e aplicabilidade real.
+
+📎 Contexto adicional:
+
+Este episódio será baseado no artigo:
+https://dio.me/articles/criando-agentes-de-ia-para-ongs-com-ferramentas-no-code-5ca132732b75
+
+O conteúdo do roteiro deve explicar:
+
+O que são agentes de IA
+
+O que são ferramentas no-code
+
+Como essas soluções podem ser aplicadas no dia a dia das ONGs
+
+Quais os impactos positivos possíveis.
+
+Inclua sugestões de frases para o apresentador iniciar e encerrar o episódio.

@@ -1,0 +1,44 @@
+ROTEIRO DO PODCAST
+
+Roteiro — Episódio 1
+Podcast: ONGs Inteligentes, Código com IA
+Duração estimada: 5 minutos
+
+[INTRODUÇÃO]
+Você já sentiu que sua ONG faz mágica com pouco recurso, mas ainda assim falta tempo, equipe e energia pra fazer tudo? E se eu te dissesse que dá pra colocar uma inteligência artificial pra trabalhar por você — e sem precisar programar uma linha de código?
+
+Sim, você ouviu certo! No episódio de hoje, vamos falar sobre como ONGs estão começando a automatizar tarefas, criar fluxos inteligentes e ganhar produtividade usando agentes de IA com ferramentas no-code. Isso tudo de forma simples, acessível e sem depender de grandes investimentos ou conhecimento técnico.
+
+Então respira fundo e vem comigo, porque o futuro da sua organização pode estar a poucos cliques de distância.
+
+[INSIGHT 1 — O PROBLEMA]
+ONGs e projetos sociais são mestres em fazer muito com pouco. Mas vamos ser sinceros: isso tem um preço. Equipes sobrecarregadas, processos manuais, retrabalho e dificuldade em escalar ações são desafios comuns.
+
+Por exemplo: cadastrar voluntários ou beneficiários em planilhas, mandar mensagens manualmente no WhatsApp, ou tentar lembrar de confirmar presença num evento comunitário… Tudo isso toma tempo, exige atenção e é altamente repetitivo.
+
+E o que acontece? Menos impacto real, mais cansaço e menos tempo pra focar no que realmente importa: transformar vidas.
+
+[INSIGHT 2 — A SOLUÇÃO: AGENTES DE IA + NO-CODE]
+Agora vem a parte boa: com ferramentas no-code e agentes de IA, você pode automatizar essas tarefas chatas — e com custo quase zero.
+
+Imagina um agente de IA que atualiza sua planilha de voluntários assim que alguém preenche um formulário. Ou que envia mensagens automáticas via WhatsApp com lembretes, convites ou confirmações de presença. Tudo isso é possível com ferramentas como:
+
+Google Forms + Sheets: para receber e organizar dados automaticamente.
+
+Make.com: para conectar ferramentas e criar automações sem código.
+
+CallMeBot: para enviar mensagens no WhatsApp de forma automática.
+
+ChatGPT: para criar respostas inteligentes, escrever textos ou até classificar informações.
+
+E sabe o melhor? Você pode fazer isso de forma visual, arrastando blocos, conectando peças e usando sua criatividade — sem precisar ser da área de TI.
+
+Esse é o poder da combinação entre IA e ferramentas no-code: empoderar organizações com tecnologia acessível e funcional.
+
+[FINALIZAÇÃO]
+Se você trabalha em uma ONG ou projeto de impacto e quer parar de perder tempo com tarefas repetitivas, essa é a sua chance de transformar o jeito como sua organização funciona — sem precisar virar programador ou investir pesado em tecnologia.
+
+Comece pequeno. Automatize um formulário. Crie um agente simples. Teste. Aprenda. E veja como isso pode liberar sua equipe para o que realmente importa: criar impacto social de verdade.
+
+Eu sou [Kimberly] e esse foi o ONGs Inteligentes, Código com IA dessa semana.
+Nos encontramos no próximo episódio com mais ideias, ferramentas e inspirações pra acelerar sua missão com tecnologia!

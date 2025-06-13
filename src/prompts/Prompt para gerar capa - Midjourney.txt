@@ -1,0 +1,9 @@
+Prompt para gerar capa - Midjourney
+
+ Prompt adaptado para gerar a imagem da capa do podcast:
+
+"white woman with short hair, wearing black eyeglasses, casual smart clothes, headset microphone on desk, sitting in a cozy home office filled with plants, laptop open with AI dashboard visible, papers and coffee mug around, digital elements floating like app icons, soft tech lighting, inclusive atmosphere, storytelling mood, camera settings f/4, 1/80s, ISO 100, soft bokeh background, natural light, photorealistic, ultra detailed, cinematic, ultra realistic photography, global illumination, real skin texture, realistic color filter --ar 1:1 --v 5.2"
+
+🔄 Alternativa com estilo mais lúdico / retrô:
+
+"female AI agent podcaster as a pixel-art character, seated at digital podcast station with microphone, books, laptop, speech bubbles and icons around, NGO/impact theme elements like heart, globe, volunteers, 8-bit pixel style, game boy colors, retro interface, top-down angle, isometric view, low resolution, old game aesthetic --ar 1:1 --v 5.2"

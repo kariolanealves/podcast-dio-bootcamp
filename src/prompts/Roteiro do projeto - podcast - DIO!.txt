@@ -1,0 +1,15 @@
+Roteiro do projeto - podcast - DIO! 👌
+
+Já entendi que o podcast será baseado no artigo que você publicou — e que já baixou o repositório como ZIP, então estamos prontas para avançar.
+
+Assim que você enviar o prompt base, eu posso:
+
+✍️ Refinar o prompt com técnicas avançadas (como AIDA, variáveis, personas, tom de voz etc.)
+
+🧠 Estruturar o roteiro do podcast em blocos (abertura, desenvolvimento, CTA final)
+
+📋 Organizar os arquivos e pastas dentro do projeto baixado
+
+🗂️ Sugerir como atualizar seu README.md com o tema do seu podcast
+
+💬 Criar o prompt para gerar voz com IA (ElevenLabs) e imagem de capa (Midjourney ou Leonardo)
